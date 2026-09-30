@@ -53,7 +53,7 @@ export const DEFAULT_CONTENT = {
   ],
 };
 
-const CONTENT_DOC = "appSettings/public";
+// const CONTENT_DOC = "appSettings/public";
 
 const cloneDefaults = () => JSON.parse(JSON.stringify(DEFAULT_CONTENT));
 
